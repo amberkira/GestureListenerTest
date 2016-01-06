@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal">
+    <com.amber.gesturelistenertest.bigbtn
+        android:id="@+id/big"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:text="dddddd"
+        android:onClick="test"/>
+    <com.amber.gesturelistenertest.smallbtn
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:id="@+id/small"
+        android:onClick="test"/>
+
+</RelativeLayout>
