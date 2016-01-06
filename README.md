@@ -1,3 +1,0 @@
-# GestureListenerTest
-day1 ：LinearLayout下同一view level中的大小按钮只有小按钮能执行diapatch ontouchevent
-但是大小按钮都能相应onclick事件。这个问题得解决。
